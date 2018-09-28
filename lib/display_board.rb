@@ -22,10 +22,10 @@ board = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
 board = [" ", " ", "O", " ", "O", " ", "O", " ", " "]
   display_board(board)
   
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   display_board(board)
   
-board = ["", "", " ", " ", " ", " ", " ", " ", " ", ]
-  display_board(board[0-8 = "X"])
+board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+  display_board(board)
 
 end
